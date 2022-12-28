@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+
+
+.header {
+    width: 700px;
+    margin-left : auto;
+    margin-right: auto;
+    padding: 24px;
+    justify-content : space around;
+    color: rgb(0, 0, 0);
+}
+
+.subtitle {
+    width: 700px;
+    margin-left : auto;
+    margin-right: auto;
+    color: rgb(21, 12, 100);
+}
+
+.content {
+    width: 700px;
+    margin-left : auto;
+    margin-right: auto;
+}
+
+.header-image {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+
+.image-content {
+    height: 500px;
+}
